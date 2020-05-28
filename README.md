@@ -126,3 +126,9 @@ This demo shows: Start up -> Infinite Loop -> LDAP Injection -> UnsatisfiedLinkE
   EasyBuggy clone build on Django 2 and written in Python
 
   　![logo](https://github.com/k-tamura/easybuggy4django/blob/master/static/easybuggy.png)
+   
+------
+
+# Cx-Flow Test
+
+* Thu May 28 19:42:12 CST 2020
